@@ -10,12 +10,12 @@ output file will be generated in the same directory.
 
 required libraries:
 
-numpy
-pandas
-scikit-learn
-fastparquet
+  numpy
+  pandas
+  scikit-learn
+  fastparquet
 
 required for notebook only:
 
-matplotlib
-plotly
+  matplotlib
+  plotly
