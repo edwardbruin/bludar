@@ -1,18 +1,14 @@
 An exploration of LiDAR data
-
-Usage:
+# Usage
 Place parquet file in same directory and run:
-open_parquet(filename)
-
+### open_parquet(filename)
 where 'filename' is the file name of your file
 output file will be generated in the same directory.
-
 # Required libraries:
   numpy
   pandas
   scikit-learn
   fastparquet
 # Required for notebook only:
-
   matplotlib
   plotly
