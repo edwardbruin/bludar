@@ -8,14 +8,12 @@ open_parquet(filename)
 where 'filename' is the file name of your file
 output file will be generated in the same directory.
 
-required libraries:
-
+#Required libraries:
   numpy
   pandas
   scikit-learn
   fastparquet
-
-required for notebook only:
+#Required for notebook only:
 
   matplotlib
   plotly
